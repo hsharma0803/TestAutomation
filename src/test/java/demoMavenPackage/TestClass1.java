@@ -36,15 +36,15 @@ public class TestClass1 {
 		
 	}
 	
-//	@Test
-//	public static void division() {
-//		
-//		int x=20;
-//		int y=10; 
-//		int z= x/y;
-//		Assert.assertEquals(2, x/y);
-//		
-//	}
+	@Test
+	public static void division() {
+		
+		int x=20;
+		int y=10; 
+		int z= x/y;
+		Assert.assertEquals(2, x/y);
+		
+	}
 
 	
 	
